@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="graphframes-0.8.0-spark3.0-s_2.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Program Files/Spark/spark-3.0.0-bin-hadoop2.7/jars/graphframes-0.8.0-spark3.0-s_2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
